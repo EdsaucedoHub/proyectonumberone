@@ -1,0 +1,19 @@
+.principal {
+    background-color: aqua;
+    background-image: url("./kraken.png");
+    background-repeat: repeat-x;
+    display: block;
+    margin: auto;
+}
+
+.form_principal {
+    color: white;
+    font-family: Georgia;
+    font-size: 1.9em;
+    text-align: center;
+}
+
+.tituloM {
+    text-align: center;
+    color: white;
+}
